@@ -75,8 +75,8 @@ $ unzip restful.zip; mv matthewfl-restful* restful; rm restful.zip
 Download the Datmachine source:
 
 ```bash
-$ curl -s -L -o balanced.zip https://github.com/datmachine/datmachine-php/zipball/master
-$ unzip balanced.zip; mv datmachine-datmachine-php-* datmachine; rm datmachine.zip
+$ curl -s -L -o datmachine.zip https://github.com/datmachine/datmachine-php/zipball/master
+$ unzip datmachine.zip; mv datmachine-datmachine-php-* datmachine; rm datmachine.zip
 ```
 
 
