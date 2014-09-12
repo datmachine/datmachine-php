@@ -24,7 +24,7 @@ class Settings
 {
     const VERSION = '1.0.0';
 
-    public static $url_root = 'https://api.datmachine-dev.co/sites/',
+    public static $url_root = 'https://api.datmachine.co/sites/',
                   $api_key = null,
                   $agent = 'datmachine-php',
                   $version = Settings::VERSION,
