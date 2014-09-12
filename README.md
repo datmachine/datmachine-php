@@ -96,7 +96,7 @@ require(__DIR__ . "/datmachine/bootstrap.php")
 
 ## Quickstart
 
-Refer to the [Quickstart guide](https://datmachine.co/getting_started) in the Balanced Documentation.
+Refer to the [Quickstart guide](https://datmachine.co/getting_started) in the Datmachine Documentation.
 
 ## Usage
 
