@@ -70,7 +70,7 @@ class Client extends \RESTful\Client {
             if ($this->convert_error != null) {
                 $error = call_user_func($this->convert_error, $response);
             } else {
-                $error = new HTTPError($response);
+                $error = new RESTful\Exceptions\HTTPError($response);
             }
             throw $error;
         }
