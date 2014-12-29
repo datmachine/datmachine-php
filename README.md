@@ -1,8 +1,8 @@
 # Datmachine
 
-Online Marketplace Payments
+Business Analytics for SaaS
 
-\
+
 The design of this library was heavily influenced by [Httpful](https://github.com/nategood/httpful).
 
 
@@ -100,7 +100,7 @@ Refer to the [Quickstart guide](https://datmachine.co/getting_started) in the Da
 
 ## Usage
 
-See https://datmachine.co/guides for guides and documentation.
+See https://datmachine.co/docs/api for guides and documentation.
 
 
 ## Contributing
